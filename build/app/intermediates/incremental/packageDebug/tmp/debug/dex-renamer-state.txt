@@ -1,0 +1,4 @@
+#Fri Dec 30 15:04:41 IST 2022
+base.0=/Users/and0/Downloads/projects/AppGPT/app_gpt/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
